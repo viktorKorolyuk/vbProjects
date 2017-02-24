@@ -9,6 +9,63 @@ Download them and use them however you wan't (following microsoft/legal rules).
 
 #Projects
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#somthing here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#somthing here
 ##Custom Draggable Window
 Windows OS is popular due to its graphical user-interface/eye-candy.
 Windows 7 has a unique GUI for windows which is very easy to understand and use, 
@@ -51,3 +108,61 @@ End Sub
 
 ```
 ###[Example](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#somthing here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#somthing here
