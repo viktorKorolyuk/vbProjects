@@ -1,7 +1,7 @@
 # vbProjects
 ##Index
  * [Intro](##intro)
- * [Custom Draggable Window](##Custom Draggable Window)
+ * [Custom Draggable Window](##Custom-Draggable-Window)
 
 ##intro
 This is a collection of my visualbasic projects done in my highschool ICS class.
