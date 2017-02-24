@@ -1,7 +1,7 @@
 # vbProjects
 ##Index
  * [Intro](##intro)
- * [Custom Draggable Window](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
+ * [Custom Draggable Window](##Custom Draggable Window)
 
 ##intro
 This is a collection of my visualbasic projects done in my highschool ICS class.
@@ -50,3 +50,4 @@ Private Sub closeBtn_Click(ByVal sender As System.Object, ByVal e As System.Even
 End Sub
 
 ```
+###[Example](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
