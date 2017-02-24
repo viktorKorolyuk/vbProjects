@@ -1,0 +1,11 @@
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\bin\Debug\DraggableWindow.exe.config
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\bin\Debug\DraggableWindow.exe
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\bin\Debug\DraggableWindow.pdb
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\bin\Debug\DraggableWindow.xml
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.vbprojResolveAssemblyReference.cache
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.Form1.resources
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.Resources.resources
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.vbproj.GenerateResource.Cache
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.exe
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.xml
+C:\Users\viktor\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\WindowsApplication1\WindowsApplication1\obj\Debug\DraggableWindow.pdb
