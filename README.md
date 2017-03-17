@@ -42,10 +42,10 @@ Private Sub moveMv(ByVal sender As System.Object, ByVal e As System.Windows.Form
   End If
 End Sub
 
-'have a button close the window
+'in case you have a button intended to close the window
 Private Sub closeBtn_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles closeBtn.Click
   Close()
 End Sub
 
 ```
-###[Example](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
+### [Example](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
