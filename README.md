@@ -1,22 +1,22 @@
 # vbProjects
-##Index
+## Index
  * [Intro](##Introduction)
  * [Custom Draggable Window](##Custom-Draggable-Window)
 
-##Introduction
+## Introduction
 This is a collection of my visualbasic projects done in my highschool ICS class.
 Download them and use them however you wan't (following microsoft/legal rules).
 
-##Custom Draggable Window
+## Draggable Windows
 Windows OS is popular due to its graphical user-interface/eye-candy.
 Windows 7 has a unique GUI for windows which is very easy to understand and use, 
-but in certain cases developers need more freedom to manipipulate the look of their programs.
-VisualBasic has a feature called `FromBorderStyle` which allows the developer to change the border of the form.
+but in certain cases developers need more freedom to manipulate the application style at a higher level.
+Thankfully, VisualBasic has a feature called `FromBorderStyle` which allows the developer to change the border of the form.
 
-The problem occurs when the `FromBorderStyle = none` property is applied. 
-The border disapears and leaves a clean, sharp look to the form; but the user cannot move the window.
+When the `FromBorderStyle = none` property is applied. 
+The border disapears and leaves a clean, sharp look to the form; BUT the user cannot move the window from its location on the screen, this can lead to dissatisfied users and loss of customers.
 
-###Solution:
+### Solution:
 ```VB
 Dim moving As Boolean = False
 Dim xDif, yDif
@@ -42,10 +42,10 @@ Private Sub moveMv(ByVal sender As System.Object, ByVal e As System.Windows.Form
   End If
 End Sub
 
-'have a button close the window
+'in case you have a button intended to close the window
 Private Sub closeBtn_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles closeBtn.Click
   Close()
 End Sub
 
 ```
-###[Example](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
+### [Example](https://github.com/viktorKorolyuk/vbProjects/tree/master/WindowsApplication1)
