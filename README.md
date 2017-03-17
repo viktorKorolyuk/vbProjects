@@ -3,11 +3,11 @@
  * [Intro](##Introduction)
  * [Custom Draggable Window](##Custom-Draggable-Window)
 
-##Introduction
+## Introduction
 This is a collection of my visualbasic projects done in my highschool ICS class.
 Download them and use them however you wan't (following microsoft/legal rules).
 
-##Custom Draggable Window
+## Custom Draggable Window
 Windows OS is popular due to its graphical user-interface/eye-candy.
 Windows 7 has a unique GUI for windows which is very easy to understand and use, 
 but in certain cases developers need more freedom to manipipulate the look of their programs.
@@ -16,7 +16,7 @@ VisualBasic has a feature called `FromBorderStyle` which allows the developer to
 The problem occurs when the `FromBorderStyle = none` property is applied. 
 The border disapears and leaves a clean, sharp look to the form; but the user cannot move the window.
 
-###Solution:
+### Solution:
 ```VB
 Dim moving As Boolean = False
 Dim xDif, yDif
