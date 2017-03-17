@@ -1,0 +1,12 @@
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\bin\Debug\FlashCardAddition.exe.config
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\bin\Debug\FlashCardAddition.exe
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\bin\Debug\FlashCardAddition.pdb
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\bin\Debug\FlashCardAddition.xml
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.Resources.resources
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.vbproj.GenerateResource.Cache
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.exe
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.xml
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.pdb
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.vbprojResolveAssemblyReference.cache
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.gameScreen.resources
+C:\Users\john\Google Drive\School\Grade 10\Computer Science\2017 ICS2O1 Period 5 - Korolyuk, Viktor\VB projects\Class 2\FlashCardAddition\FlashCardAddition\obj\Debug\FlashCardAddition.main.resources
