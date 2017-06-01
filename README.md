@@ -48,4 +48,4 @@ Private Sub closeBtn_Click(ByVal sender As System.Object, ByVal e As System.Even
 End Sub
 
 ```
-I have created a class library which can be added to your VisualBasic project through `project --> add reference` menu avaliable [https://github.com/viktorKorolyuk/vbProjects/blob/master/dragWindow_lib_compiled.zip](here)
+I have created a class library which can be added to your VisualBasic project through `project --> add reference` menu avaliable (https://github.com/viktorKorolyuk/vbProjects/blob/master/dragWindow_lib_compiled.zip)[here]
